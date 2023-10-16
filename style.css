@@ -1,0 +1,55 @@
+h2, p, table, label{
+    font-family: garamond, , Helvetica, sans-serif;
+}
+
+h2{
+    font-weight: bold;
+    background-color: lightblue;
+}
+
+
+table{
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+.genap{
+    background-color: lightgreen;
+}
+
+.kode{
+    text-decoration: ;
+    color: black;(189, 3, 3);
+
+}
+
+.pemweb, #pemweb{
+    text-decoration: underline;
+    color: green;
+}
+
+
+span, .bold{
+    color: red;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+img {
+    width: 256px;
+    height: 256px;
+}
+
+p{
+    font-weight: bold;
+
+}
+th{
+    background-color: lightblue;
+}
+
+#about h2{
+    background-color: lightblue;
+}
